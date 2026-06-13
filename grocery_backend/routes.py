@@ -223,3 +223,5 @@ def order_details():
         'tx_ref': order.tx_ref,
         'status': order.payment_status
     })
+
+

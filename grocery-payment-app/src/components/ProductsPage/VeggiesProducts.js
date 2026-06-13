@@ -4,7 +4,8 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import "./VeggiesProducts.css";
 
-import veggieimg1 from "../../assets/product17.jpeg";
+import veggieimg1 from "../../assets/product17.jpeg"
+// import veggieimg1 from "../../assets/product17.jpeg";
 import veggieimg2 from "../../assets/product15.jpeg";
 import veggieimg3 from "../../assets/product13.jpeg";
 import veggiesimg4 from "../../assets/pineapple.jpeg";
